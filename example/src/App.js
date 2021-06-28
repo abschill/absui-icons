@@ -1,10 +1,10 @@
 import React from 'react'
 
-import { ExampleComponent } from 'absui-icons'
+import { CoffeeIcon } from 'absui-icons'
 import 'absui-icons/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <CoffeeIcon fill="#c0c0c0" size="lg" />
 }
 
 export default App
