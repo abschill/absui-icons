@@ -15,7 +15,7 @@ npm install --save absui-icons
 ```jsx
 import React, { Component } from 'react'
 
-import {GithubIcon} from 'absui-icons'
+import {CoffeeIcon} from 'absui-icons'
 const App = () => {
   return <CoffeeIcon fill="#c0c0c0" size="lg" />
 }
