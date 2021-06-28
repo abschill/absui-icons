@@ -1,5 +1,6 @@
 /* eslint-disable prettier/prettier */
 import React from 'react';
+import CustomIcon from './CustomIcon';
 const CoffeeSVG = () => {
     return (<g>
         <g>
@@ -63,4 +64,5 @@ const CoffeeSVG = () => {
     </g>
     )
 }
-export default CoffeeSVG;
+const CoffeeIcon = (props) => <CustomIcon size={props.size} viewBox="0 0 512 512" fill={props.fill}><CoffeeSVG /></CustomIcon>
+export default CoffeeIcon;

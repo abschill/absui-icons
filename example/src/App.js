@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { CoffeeIcon, GearIcon } from 'absui-icons'
+import { CoffeeIcon, GearIcon, GithubIcon } from 'absui-icons'
 import 'absui-icons/dist/index.css'
 
 const App = () => {
@@ -9,6 +9,7 @@ const App = () => {
       <GearIcon fill="#c0c0c0" size="md"
       />
       <CoffeeIcon fill="#c0c0c0" size="md" />
+      <GithubIcon fill="#c0c0c0" size="sm" />
     </div>
   )
 }
