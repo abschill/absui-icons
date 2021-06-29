@@ -9,7 +9,7 @@ const CustomIcon = (props) => {
         case "lg":
             return <svg fill={props.fill} viewBox={props.viewBox ?? "0 0 512 512"} height="128" width="128">{props.children}</svg>
         default:
-            return <svg fill={props.fill} height="100%" width="100%">{props.children}</svg>
+            return <svg fill={props.fill} viewBox="0 0 512 512">{props.children}</svg>
     }
 
 }
