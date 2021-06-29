@@ -1,10 +1,7 @@
 # absui-icons
 
-> Icon Pack for Absolute UI
-
-[![NPM](https://img.shields.io/npm/v/absui-icons.svg)](https://www.npmjs.com/package/absui-icons) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-
-## Install
+> Icon Pack for Absolute UI (React)
+## Installation
 
 ```bash
 npm install --save absui-icons
@@ -18,9 +15,9 @@ const App = () => {
 }
 ```
 ## Size Options
-sm - 32x32
-md - 64x64 
-lg - 128x128
+- sm - 32x32
+- md - 64x64 
+- lg - 128x128
 
 ## Icons
 - AddIcon
