@@ -24,6 +24,7 @@ const App = () => {
 - SubtractIcon
 - BurgerIcon
 - CloseIcon
+- ExpandIcon
 - CoffeeIcon
 - DayIcon
 - NightIcon
