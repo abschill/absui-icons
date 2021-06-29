@@ -23,18 +23,18 @@ md - 64x64
 lg - 128x128
 
 ## Icons
-AddIcon
-SubtractIcon
-BurgerIcon
-CloseIcon
-CoffeeIcon
-DayIcon
-NightIcon
-GearIcon
-GithubIcon
-NewWindowIcon
-ReactIcon
-More to come
+- AddIcon
+- SubtractIcon
+- BurgerIcon
+- CloseIcon
+- CoffeeIcon
+- DayIcon
+- NightIcon
+- GearIcon
+- GithubIcon
+- NewWindowIcon
+- ReactIcon
+- More to come
 
 ## License
 
