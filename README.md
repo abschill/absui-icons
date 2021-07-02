@@ -34,6 +34,7 @@ const App = () => {
 - ReactIcon
 - More to come
 
+![Icon Pack](./icons.PNG)
 ## License
 
 MIT © [abschill](https://github.com/abschill)
