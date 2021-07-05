@@ -1,6 +1,8 @@
 # absui-icons
 ![Icon Pack](./icons.PNG)
 > Icon Pack for Absolute UI (React)
+
+[![NPM](https://img.shields.io/npm/v/absui-icons.svg)](https://www.npmjs.com/package/absui-icons) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 ## Installation
 
 ```bash
