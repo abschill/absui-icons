@@ -1,0 +1,16 @@
+## Icons (Material)
+- NightIcon
+- DayIcon
+- MenuIcon
+- ForwardIcon
+- BackIcon
+- AddIcon
+- SubtractIcon
+- NewWindowIcon
+- CloseIcon
+- SearchIcon
+- CancelIcon
+- DoneIcon
+- ExpandMoreIcon
+- ExpandLessIcon
+- FilterIcon
