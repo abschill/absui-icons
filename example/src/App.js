@@ -1,6 +1,7 @@
 import React from 'react'
 
 import {
+  HomeIcon,
   NightIcon,
   DayIcon,
   MenuIcon,
@@ -22,6 +23,7 @@ const fill = "#000";
 const App = () => {
   return (
     <div>
+      <HomeIcon fill={fill} size={size} />
       <NightIcon fill={fill} size={size} />
       <DayIcon fill={fill} size={size} />
       <MenuIcon fill={fill} size={size} />

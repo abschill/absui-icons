@@ -1,4 +1,5 @@
 ## Icons (Material)
+- HomeIcon
 - NightIcon
 - DayIcon
 - MenuIcon
