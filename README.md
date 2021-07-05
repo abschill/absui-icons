@@ -20,19 +20,20 @@ const App = () => {
 - lg - 128x128
 
 ## Icons
+- MenuIcon
+- ForwardIcon
+- BackIcon
 - AddIcon
 - SubtractIcon
-- BurgerIcon
-- CloseIcon
-- ExpandIcon
-- CoffeeIcon
-- DayIcon
-- NightIcon
-- GearIcon
-- GithubIcon
 - NewWindowIcon
-- ReactIcon
-- More to come
+- CloseIcon
+- SearchIcon
+- CancelIcon
+- DoneIcon
+- ExpandMoreIcon
+- ExpandLessIcon
+- FilterIcon
+- More to Come
 
 ![Icon Pack](./icons.PNG)
 ## License

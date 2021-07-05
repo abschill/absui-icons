@@ -13,6 +13,6 @@ code {
     monospace;
 }
 
-.test > *{
-  padding:1rem;
+svg {
+  width:auto;
 }

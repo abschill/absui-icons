@@ -1,24 +1,38 @@
 import React from 'react'
 
 import {
-  CoffeeIcon, GearIcon, GithubIcon, BurgerIcon, ReactIcon, NightIcon, DayIcon, AddIcon, SubtractIcon,
-  NewWindowIcon, CloseIcon, ExpandIcon
+  MenuIcon,
+  ForwardIcon,
+  BackIcon,
+  AddIcon,
+  SubtractIcon,
+  NewWindowIcon,
+  CloseIcon,
+  SearchIcon,
+  CancelIcon,
+  DoneIcon,
+  ExpandMoreIcon,
+  ExpandLessIcon,
+  FilterIcon
 } from 'absui-icons'
+const size = "md"
+const fill = "#000";
 const App = () => {
   return (
-    <div className="test">
-      <AddIcon size="sm" />
-      <SubtractIcon size="sm" />
-      <BurgerIcon size="sm" />
-      <CloseIcon size="sm" />
-      <ExpandIcon size="sm" />
-      <CoffeeIcon size="sm" />
-      <DayIcon size="sm" />
-      <NightIcon size="sm" />
-      <GithubIcon size="sm" />
-      <GearIcon size="sm" />
-      <NewWindowIcon size="sm" />
-      <ReactIcon size="sm" />
+    <div >
+      <MenuIcon fill={fill} size={size} />
+      <ForwardIcon fill={fill} size={size} />
+      <BackIcon fill={fill} size={size} />
+      <AddIcon fill={fill} size={size} />
+      <SubtractIcon fill={fill} size={size} />
+      <NewWindowIcon fill={fill} size={size} />
+      <CloseIcon fill={fill} size={size} />
+      <SearchIcon fill={fill} size={size} />
+      <CancelIcon fill={fill} size={size} />
+      <DoneIcon fill={fill} size={size} />
+      <ExpandMoreIcon fill={fill} size={size} />
+      <ExpandLessIcon fill={fill} size={size} />
+      <FilterIcon fill={fill} size={size} />
     </div>
   )
 }
