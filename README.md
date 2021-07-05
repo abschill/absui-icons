@@ -20,6 +20,8 @@ const App = () => {
 - lg - 96x96
 
 ## Icons (Material)
+- NightIcon
+- DayIcon
 - MenuIcon
 - ForwardIcon
 - BackIcon
