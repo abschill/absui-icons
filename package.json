@@ -1,6 +1,6 @@
 {
   "name": "absui-icons",
-  "version": "0.0.51",
+  "version": "0.0.52",
   "description": "Icon Pack for Absolute UI",
   "author": "abschill",
   "license": "MIT",
@@ -51,6 +51,7 @@
     "dist"
   ],
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
   }
 }
