@@ -1,5 +1,5 @@
 import React from 'react';
-import CustomIcon from './CustomIcon';
+import CustomIcon from '../helpers/CustomIcon';
 const FullScreenRaw = () => <g>
     <path d="M128,32V0H16C7.163,0,0,7.163,0,16v112h32V54.56L180.64,203.2l22.56-22.56L54.56,32H128z" />
     <path d="M496,0H384v32h73.44L308.8,180.64l22.56,22.56L480,54.56V128h32V16C512,7.163,504.837,0,496,0z" />

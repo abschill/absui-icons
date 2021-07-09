@@ -14,7 +14,7 @@ const CustomIcon = (props) => {
         return "24px"
     })
     return (
-        <svg width={size} height={size} viewBox="0 0 24 24">
+        <svg width={size} height={size} fill={props.fill}viewBox={props.viewBox??"0 0 24 24"}>
             {props.children}
         </svg>
     )

@@ -2,7 +2,7 @@
 /* eslint-disable react/jsx-pascal-case */
 
 import React from 'react';
-import CustomIcon from './CustomIcon';
+import CustomIcon from '../helpers/CustomIcon';
 const BI = () => {
 	return (
 		<>

@@ -1,5 +1,5 @@
 import React from 'react';
-import CustomIcon from './CustomIcon';
+import CustomIcon from '../helpers/CustomIcon';
 const DoneIcon = (props) => {
     return (
         <CustomIcon props={props.size} fill={props.fill}>

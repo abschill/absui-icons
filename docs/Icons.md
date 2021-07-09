@@ -15,3 +15,6 @@
 - ExpandMoreIcon
 - ExpandLessIcon
 - FilterIcon
+- AccountIcon
+- GithubIcon
+- GearIcon

@@ -16,7 +16,11 @@ import {
   DoneIcon,
   ExpandMoreIcon,
   ExpandLessIcon,
-  FilterIcon
+  FilterIcon,
+  AccountIcon,
+  GithubIcon,
+  GearIcon
+
 } from 'absui-icons'
 const size = "md"
 const fill = "#000";
@@ -39,6 +43,9 @@ const App = () => {
       <ExpandMoreIcon fill={fill} size={size} />
       <ExpandLessIcon fill={fill} size={size} />
       <FilterIcon fill={fill} size={size} />
+      <AccountIcon fill={fill} size={size}/>
+      <GithubIcon fill={fill} size={size}/>
+      <GearIcon fill={fill} size={size}/>
     </div>
   )
 }

@@ -1,5 +1,5 @@
 import React from 'react';
-import CustomIcon from './CustomIcon';
+import CustomIcon from '../helpers/CustomIcon';
 const FilterIcon = (props) => {
     return (
         <CustomIcon fill={props.fill} size={props.size}>

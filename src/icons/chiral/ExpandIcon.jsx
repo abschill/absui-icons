@@ -1,5 +1,5 @@
 /* eslint-disable prettier/prettier */
-import CustomIcon from './CustomIcon';
+import CustomIcon from '../helpers/CustomIcon';
 import React from 'react';
 
 
