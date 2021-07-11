@@ -18,6 +18,5 @@ const App = () => {
 ## Resources
 - [Icon Sizes](https://github.com/abschill/absui-icons/blob/master/docs/Size.md)
 - [Icon Types](https://github.com/abschill/absui-icons/blob/master/docs/Icons.md)
-- [absui-core](https://github.com/abschill/absui-core)
 ## License
 MIT © [abschill](https://github.com/abschill)
